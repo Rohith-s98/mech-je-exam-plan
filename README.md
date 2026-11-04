@@ -13,5 +13,5 @@ Dates after 27 Oct 2026 are estimates from last year's cycle; confirm on the off
 
 ## Study guides
 
-- [Thermal Engineering](https://rohith-s98.github.io/thermal-engineering/) and its [Level 2: tricky questions](https://rohith-s98.github.io/thermal-engineering/level-2/)
+- [Thermal Engineering](https://rohith-s98.github.io/thermal-engineering/), its [Level 2: tricky questions](https://rohith-s98.github.io/thermal-engineering/level-2/) and [Level 3: timed mocks](https://rohith-s98.github.io/thermal-engineering/level-3/)
 - [Production Engineering](https://rohith-s98.github.io/production-engineering/)
